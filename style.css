@@ -1,0 +1,57 @@
+.my {
+    width: 200px;
+    height: 210px;
+}
+
+header {
+    background-color: rgb(255, 181, 44);
+}
+
+body {
+    background-color: orange;
+}
+
+h1 {
+    font-family: fantasy;
+    border-radius: 20px;
+    border: 1px solid rgb(68, 0, 255);
+    background-color: rgb(211, 138, 1);
+    text-align: center;
+    color: rgb(255, 166, 0);;
+}
+
+main p {
+    color: rgb(0, 0, 0);
+}
+
+h2 {
+    font-family: fantasy;
+    border-radius: 20px;
+    border: 1px solid rgb(68, 0, 255);
+    background-color: rgb(211, 138, 1);
+    text-align: center;
+    color: rgb(255, 166, 0);
+}
+
+table {
+    font-family: cursive;
+    color: rgb(5, 71, 5);
+    border: 2px solid rgb(33, 2, 92) ;
+}
+
+td {
+   border: 2px solid rgb(4, 2, 92) ;
+}
+
+footer {  
+   background-color: rgb(102, 66, 0);
+}
+
+footer a {
+    color: honeydew;
+    text-decoration: none;
+}
+
+footer p {
+   color: honeydew; 
+}
