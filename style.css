@@ -3,9 +3,6 @@
     height: 210px;
 }
 
-header {
-    background-color: rgb(255, 181, 44);
-}
 nav a{
     margin: 5%;
     text-decoration: none;
@@ -24,6 +21,11 @@ nav a{
     padding: 1%;
    background-color:black;
     color: white; 
+}
+
+
+header {
+    background-color: rgb(255, 181, 44);
 }
 
 
