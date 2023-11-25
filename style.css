@@ -97,3 +97,9 @@ nav a{
    background-color:black;
     color: white; 
 }
+
+img {
+    width: 15px;
+    height: 15px;
+}
+
