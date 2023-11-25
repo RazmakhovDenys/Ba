@@ -6,6 +6,26 @@
 header {
     background-color: rgb(255, 181, 44);
 }
+nav a{
+    margin: 5%;
+    text-decoration: none;
+    border: 1px solid black;
+    border-radius: 15px;
+    padding: 1%;
+    background-color:white;
+    color: black;
+}
+
+.my{
+    margin: 5%;
+    text-decoration: none;
+    border: 1px solid black;
+    border-radius: 15px;
+    padding: 1%;
+   background-color:black;
+    color: white; 
+}
+
 
 body {
     background-color: orange;
