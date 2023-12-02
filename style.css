@@ -98,7 +98,11 @@ nav a{
 }
 
 img {
+    text-align: center;
     width: 15px;
     height: 15px;
 }
 
+nav {
+    text-align: center;
+}
